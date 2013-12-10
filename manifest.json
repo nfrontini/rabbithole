@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "RabbitHole",
+  "description": "This extension helps you check backend response for different XMPP request.",
+  "version": "1.0",
+  "app": {
+    "launch": {
+      "local_path": "rabbithole.html"
+    }
+  },
+  "permissions": [ "http://*/*", "https://*/*" ]
+}
